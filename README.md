@@ -8,13 +8,13 @@ The game window is set to 500x500. You can change the background color by alteri
 
 Add these two lines right after creating GraphWin:
 
-img = Image(Point(0, 0), "yourImageFile")
-img.draw(win)
+    img = Image(Point(0, 0), "yourImageFile")
+    img.draw(win)
 
 
 example:
 
-win = GraphWin("Tic-Tac-Toe", 500, 500)
-img = Image(Point(0, 0), "image.png")
-img.draw(win)
-#win.setBackground("burlywood2")   # comment out this line
+    win = GraphWin("Tic-Tac-Toe", 500, 500)
+    img = Image(Point(0, 0), "image.png")
+    img.draw(win)
+    #win.setBackground("burlywood2")  #comment out this line
