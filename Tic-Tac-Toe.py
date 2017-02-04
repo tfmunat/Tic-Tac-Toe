@@ -2,7 +2,7 @@
 # Tic-Tac-Toe by Tahmid Munat
 #**************************************************************
 
-# Contact: contact@tahmidmunat.com
+# Contact: tahmid.munat@columbia.edu
 # December, 2014
 
 #**************************************************************
